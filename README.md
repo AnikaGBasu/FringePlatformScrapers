@@ -1,1 +1,1 @@
-# GabScraper
+# Fringe Platform Scrapers
